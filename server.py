@@ -20,7 +20,7 @@ class HTTPRequestHandler(BaseHTTPRequestHandler):
             <!DOCTYPE html>
 <html>
 <head>
-    <title>Real-time Text Input</title>
+    <title>mobile-to-server-chat</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
